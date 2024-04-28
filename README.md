@@ -9,7 +9,7 @@ The application can be controlled via grapical user interface. Here the user can
 - Specify the text or phrase that should be replaced 
 - Enter the text or phrase as the replacement 
 
-<img src="Graphical_user_interface.png" alt="Graphical User Interface" width="995" height="645">
+<img src="Graphical_user_interface.png" alt="Graphical User Interface" width="50%" height="50%">
 
 ## How to use?
 
